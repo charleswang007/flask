@@ -17,4 +17,5 @@ It is a WSGI toolkit, which implements requests, response objects, and other uti
 ## jinja2
 jinja2 is a popular templating engine for Python. A web templating system combines a template with a certain data source to render dynamic web pages.
 
+
 Flask is often referred to as a micro framework. It aims to keep the core of an application simple yet extensible. Flask does not have built-in abstraction layer for database handling, nor does it have form a validation support. Instead, Flask supports the extensions to add such functionality to the application. Some of the popular Flask extensions are discussed later in the tutorial.
